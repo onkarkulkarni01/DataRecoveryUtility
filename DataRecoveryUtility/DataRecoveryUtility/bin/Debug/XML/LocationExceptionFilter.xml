@@ -1,0 +1,10 @@
+<Tables>
+<Table>
+<Name>upload_transaction</Name>
+<Location>TRANS_ZRS_LOCATION_ID</Location>
+</Table>
+<Table>
+<Name>upload_transaction_details</Name>
+<Location>UTD_LOCATION_ID_FK</Location>
+</Table>
+</Tables>

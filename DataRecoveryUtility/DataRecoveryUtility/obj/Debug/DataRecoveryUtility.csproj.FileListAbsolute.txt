@@ -1,0 +1,9 @@
+C:\inetpub\wwwroot\Zodiac\DataRecoveryUtility\DataRecoveryUtility\bin\Debug\DataRecoveryUtility.exe.config
+C:\inetpub\wwwroot\Zodiac\DataRecoveryUtility\DataRecoveryUtility\bin\Debug\DataRecoveryUtility.exe
+C:\inetpub\wwwroot\Zodiac\DataRecoveryUtility\DataRecoveryUtility\bin\Debug\DataRecoveryUtility.pdb
+C:\inetpub\wwwroot\Zodiac\DataRecoveryUtility\DataRecoveryUtility\obj\Debug\DataRecoveryUtility.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Zodiac\DataRecoveryUtility\DataRecoveryUtility\obj\Debug\DataRecoveryUtility.Properties.Resources.resources
+C:\inetpub\wwwroot\Zodiac\DataRecoveryUtility\DataRecoveryUtility\obj\Debug\DataRecoveryUtility.Utility.resources
+C:\inetpub\wwwroot\Zodiac\DataRecoveryUtility\DataRecoveryUtility\obj\Debug\DataRecoveryUtility.csproj.GenerateResource.Cache
+C:\inetpub\wwwroot\Zodiac\DataRecoveryUtility\DataRecoveryUtility\obj\Debug\DataRecoveryUtility.exe
+C:\inetpub\wwwroot\Zodiac\DataRecoveryUtility\DataRecoveryUtility\obj\Debug\DataRecoveryUtility.pdb
